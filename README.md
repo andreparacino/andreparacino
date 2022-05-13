@@ -6,4 +6,4 @@
   
 Project Presentation PowerPoint link in [Luckly repository Wiki page.](https://github.com/andreparacino/LUCKLY-Alpha/wiki) (Qality loss due to iCloud Keynote limitations)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreparacino)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreparacino&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
