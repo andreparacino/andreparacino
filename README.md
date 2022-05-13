@@ -5,3 +5,5 @@
 **Luckly** is a tool capable of generating customized canvases based on the answers given by users to "personal questions”.
   
 Project Presentation PowerPoint link in [Luckly repository Wiki page.](https://github.com/andreparacino/LUCKLY-Alpha/wiki) (Qality loss due to iCloud Keynote limitations)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
