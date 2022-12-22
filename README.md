@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **andre.paracino@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10brAKHwm0DRgSv_DDkWtDDDkCVcAfgdB/view?usp=share_link](https://drive.google.com/file/d/10brAKHwm0DRgSv_DDkWtDDDkCVcAfgdB/view?usp=share_link)
+- 📄 Know about [my experiences](https://drive.google.com/file/d/10brAKHwm0DRgSv_DDkWtDDDkCVcAfgdB/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
